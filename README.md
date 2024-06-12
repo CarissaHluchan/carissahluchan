@@ -53,8 +53,8 @@ I value continued education and want a career that challenges my mind and provid
 - 📫 How to reach me: carissahluchan@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm an outdoor enthusiast: hiker, rock climber, splitboarder. <br/>
-![Snowboarder Light Skin Tone (1)](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/10390d7c-38e7-41c6-ba0d-19eafa4eecff)
 ![Woman Climbing Medium-Light Skin Tone](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/34d92fce-8f64-411c-9e0f-00d20803abf1)
+![Snowboarder Light Skin Tone (1)](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/10390d7c-38e7-41c6-ba0d-19eafa4eecff)
 
 <br/>  
 
