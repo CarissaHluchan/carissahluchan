@@ -41,7 +41,7 @@ I value continued education and want a career that challenges my mind and provid
 1. [Rock, Paper, Scissors](https://carissahluchan.github.io/rock-paper-scissors/)
 2. [Self Care Center](https://carissahluchan.github.io/self-care-center/)
 3. [ColoRandom](https://carissahluchan.github.io/colorRandom/)
-4. [RomCom](https://carissahluchan.github.io/romcom/)
+4. [RomCom](https://rolearypro.github.io/romcom-With-Carissa/)
 
 ## More
   
@@ -61,10 +61,8 @@ I value continued education and want a career that challenges my mind and provid
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CarissaHluchan&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=CarissaHluchan&show_icons=true&count_private=true&hide_border=true" />  
 <br/>  
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=CarissaHluchan&&style=flat-square" align="center" />
 </div>  
 <br/>  
