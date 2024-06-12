@@ -60,11 +60,10 @@ I value continued education and want a career that challenges my mind and provid
 
 
 ## Github Stats  
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CarissaHluchan&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <br/>  
 
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=CarissaHluchan&&style=flat-square" align="center" />
 </div>  
 <br/>  
