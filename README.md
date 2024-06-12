@@ -69,6 +69,4 @@ I value continued education and want a career that challenges my mind and provid
 <br/>  
 
 
-<br />
-
 
