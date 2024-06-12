@@ -1,8 +1,7 @@
-## Hi there 👋
-
-### <div align="center">I'm Carissa, a front-end developer.</div>  
-
-## Connect with me  
+<div  align="center">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczNA4wOqF1FrIU_7gCiOvkAweGlnzHdu5POWQNnahid04_bXZTmWP-Q1uyLSRv6O1tquMeXxZdKXHOys_IqfeHeR3p5UclukCwu0BDmsjkfMgFyKJkGy7aDMHHO8uXMq2OyzWyKhQoOZyXQ1tVzE96BVRGPDrjaCHYd_Qb9wPHqeoaMns6cU9qaX78INZVq8tGuVY6nIkrxzBZ28mg2dVVIfsAXmOoXB-bCvkFpDCkC7P0xggm-klbguBywOd4e-M5EA5wroj6LUMitOU0sePGqc5ilm4jd2PdQByaz2bzIOJhOiT9-yn9xgJamkBEG1RZQKvD9AgJTWfgb8jW97maFAoIV-M4KQ0ObxtlKJIoyNaq21M3uRxg2BvdMTtMb7kq-2Hf2libRFArpPF0ITc6ewl7tVlcTno0wgNUQ8zfhAVHU2PW66ue6mBNDNYEdpmMgInxvI2PfqZ1aXLo54h9T9P8xWxbmiPx7hEwYbh9iPYiX36tyHaBUh6z-O79BB-ivrG_c_6rc_ZdrvKcM_eqyYaaxINh_bS5m5-9LBV8RSBnwLsDbZZrQy3cTst-davB-g17J5a6Dy83CFsR93iCXRBdb2qj7oX4Sv3XAG4Myqs0RD5-pIsXTVYEFXH9qaRsUpK-cAJtMHODwKse06dCmT_Md2pH4jbR9PWt2GJUdBA4F1ZIJKOHI_C5yCwSXW2W1U24QNI4I5ACf32cGhfEiO9btI-oGS5AP0SHGhf5a5TbcoCveeABImbAJR9e8AyYCrvrW6TXgL_a1NKIHV_74qLkmm1l5p0h05NqhUNKLYheUbAOSNnQGqiIqYfK8jiqaexeXV7vdlEEr_u57x8rb9ZnvjdIgjKnGpW52FOUz8v3INeA90SuxyRK-07-g7xBJ1blsbwHhGFK7mqV3NsC0S3Tf8hO1c7N-BwDiDjkvKU6YKdnleGHQdt656cg=w1645-h1234-s-no-gm?authuser=0" width="600" /> 
+</div>
+<br/>
 <div align="center">
 <a href="https://github.com/CarissaHluchan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -16,11 +15,12 @@
 <a href="https://codepen.com/Carissa-Hluchan" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>   
+</div>
 
-<br/>    
+## Hi there 👋 I'm Carissa, a front-end developer.</div>  
 
-
+I value continued education and want a career that challenges my mind and provides opportunities for advancement and growth. A career in Software Development provides these opportunities. 
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -52,13 +52,17 @@
 - 👯 I’m looking to collaborate on CSS, HTML, and JavaScript projects.
 - 📫 How to reach me: carissahluchan@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I'm an outdoor enthusiast: hiker, rock climber, splitboarder. 
+- ⚡ Fun fact: I'm an outdoor enthusiast: hiker, rock climber, splitboarder. <br/>
+![Snowboarder Light Skin Tone (1)](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/10390d7c-38e7-41c6-ba0d-19eafa4eecff)
+![Woman Climbing Medium-Light Skin Tone](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/34d92fce-8f64-411c-9e0f-00d20803abf1)
+
 <br/>  
 
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=CarissaHluchan&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <br/>  
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CarissaHluchan&&style=flat-square" align="center" />
