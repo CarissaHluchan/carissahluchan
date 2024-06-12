@@ -68,5 +68,7 @@ I value continued education and want a career that challenges my mind and provid
 </div>  
 <br/>  
 
+<img src="https://gifdb.com/images/high/orange-cat-typing-happily-xy8wrku0apvtv3sb.gif"/>
+
 
 
