@@ -47,12 +47,11 @@ I value continued education and want a career that challenges my mind and provid
 
 ## More
   
-- 🔭 I just finsihed my first solo project; a game [Rock, Paper, Scissors](https://carissahluchan.github.io/rock-paper-scissors/)  
+- 🔭 I just finished my first solo project; a game [Rock, Paper, Scissors](https://carissahluchan.github.io/rock-paper-scissors/)  
 - 🌱 I’m currently learning CSS, HTML, and JavaScript  
 - ❓ Ask me about my experience in Scientific Photography.  [![flickr](https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/photos/hurdstrom/)
 -  Why coding? [![Presentation](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black)](https://docs.google.com/presentation/d/1BNgDOTi15TSLf2qjodGmVsleNTXNSJ1Oiq2xQEEKupQ/edit#slide=id.g2737dd05ca1_0_87)
 - 👯 I’m looking to collaborate on CSS, HTML, and JavaScript projects.
-- 📫 How to reach me: carissahluchan@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm an outdoor enthusiast: hiker, rock climber, splitboarder. <br/>
 ![Woman Climbing Medium-Light Skin Tone](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/34d92fce-8f64-411c-9e0f-00d20803abf1)
