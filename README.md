@@ -39,14 +39,16 @@ Detail-oriented Front-End Software Developer with a strong foundation in React, 
 <br/>
 
 ## My Recent Projects
-1. [Rock, Paper, Scissors](https://carissahluchan.github.io/rock-paper-scissors/)
-2. [Self Care Center](https://carissahluchan.github.io/self-care-center/)
-3. [ColoRandom](https://carissahluchan.github.io/colorRandom/)
-4. [RomCom](https://rolearypro.github.io/romcom-With-Carissa/)
+- [Overlook Hotel](https://carissahluchan.github.io/overlook-hotel/)
+- [Whats Cookin](https://github.com/CarissaHluchan/whats-cookin)
+- [Rock, Paper, Scissors](https://carissahluchan.github.io/rock-paper-scissors/)
+- [Self Care Center](https://carissahluchan.github.io/self-care-center/)
+- [ColoRandom](https://carissahluchan.github.io/colorRandom/)
+- [RomCom](https://rolearypro.github.io/romcom-With-Carissa/)
 
 ## More
   
-- 🔭 I just finished my first solo project; a game [Rock, Paper, Scissors](https://carissahluchan.github.io/rock-paper-scissors/)  
+- 🔭 Chekout my most recent project: [Overlook Hotel Repo](https://github.com/CarissaHluchan/overlook-hotel)
 - 🌱 I’m currently learning CSS, HTML, and JavaScript  
 - ❓ Ask me about my experience in Scientific Photography.  [![flickr](https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/photos/hurdstrom/)
 -  Why coding? [![Presentation](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black)](https://docs.google.com/presentation/d/1BNgDOTi15TSLf2qjodGmVsleNTXNSJ1Oiq2xQEEKupQ/edit#slide=id.g2737dd05ca1_0_87)
