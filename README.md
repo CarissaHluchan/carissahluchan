@@ -20,7 +20,7 @@
 
 ## Hi there 👋 I'm Carissa, a front-end developer.</div>  
 
-Detail-oriented Front-End Software Developer with a strong foundation in React, JavaScript, and responsive design. Proficient with effective testing practices and passionate about applying UI/UX principles and accessibility to improve user experience. Eager to leverage a background in photography to enhance visual elements and contribute to creating high-quality, user-centered applications.
+Keen-eyed Front-End Software Developer with a strong foundation in React, JavaScript, and responsive design. Proficient in effective testing practices and passionate about applying UI/UX principles and accessibility to improve user experience. Thrives on leveraging a background in photography to enhance visual elements and contribute to creating high-quality, user-centered applications.
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
