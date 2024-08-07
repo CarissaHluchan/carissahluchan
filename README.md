@@ -56,7 +56,7 @@ Detail-oriented Front-End Software Developer with a strong foundation in React, 
 ## More
   
 - 🔭 Chekout my most recent project: [Overlook Hotel Repo](https://github.com/CarissaHluchan/overlook-hotel)
-- 🌱 I’m currently learning CSS, HTML, and JavaScript  
+- 🌱 I’m currently learning React.  
 - ❓ Ask me about my experience in Scientific Photography.  [![flickr](https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/photos/hurdstrom/)
 -  Why coding? [![Presentation](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black)](https://docs.google.com/presentation/d/1BNgDOTi15TSLf2qjodGmVsleNTXNSJ1Oiq2xQEEKupQ/edit#slide=id.g2737dd05ca1_0_87)
 - 👯 I’m looking to collaborate on CSS, HTML, and JavaScript projects.
