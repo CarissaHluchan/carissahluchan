@@ -20,7 +20,7 @@
 
 ## Hi there 👋 I'm Carissa, a front-end developer.</div>  
 
-Keen-eyed Front-End Software Developer with a strong foundation in React, JavaScript, and responsive design. Proficient in effective testing practices and passionate about applying UI/UX principles and accessibility to improve user experience. Thrives on leveraging a background in photography to enhance visual elements and contribute to creating high-quality, user-centered applications.
+Keen-eyed Front-End Software Developer with a foundation in JavaScript, CSS, HTML and responsive design. Proficient in effective testing practices and passionate about applying UI/UX principles and accessibility to improve user experience. Thrives on leveraging a background in photography to enhance visual elements and contribute to creating high-quality, user-centered applications.
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -57,9 +57,9 @@ Keen-eyed Front-End Software Developer with a strong foundation in React, JavaSc
   
 - 🔭 Chekout my most recent project: [Overlook Hotel Repo](https://github.com/CarissaHluchan/overlook-hotel)
 - 🌱 I’m currently learning React.  
-- ❓ Ask me about my experience in Scientific Photography.  [![flickr](https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/photos/hurdstrom/)
--  Why coding? [![Presentation](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black)](https://docs.google.com/presentation/d/1BNgDOTi15TSLf2qjodGmVsleNTXNSJ1Oiq2xQEEKupQ/edit#slide=id.g2737dd05ca1_0_87)
-- 👯 I’m looking to collaborate on CSS, HTML, and JavaScript projects.
+- ❓ Ask me about my experience in Scientific Photography. See some of my work:[![flickr](https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/photos/hurdstrom/)
+- Why coding? The skills I bring: [![Presentation](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black)](https://docs.google.com/presentation/d/1BNgDOTi15TSLf2qjodGmVsleNTXNSJ1Oiq2xQEEKupQ/edit#slide=id.g2737dd05ca1_0_87)
+- 👯 I’m looking to collaborate on CSS, HTML, and JavaScript projects. UX/UI design. Accessibility. TDD
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm an outdoor enthusiast: hiker, rock climber, splitboarder. <br/>
 ![Woman Climbing Medium-Light Skin Tone](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/34d92fce-8f64-411c-9e0f-00d20803abf1)
