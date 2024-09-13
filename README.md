@@ -57,7 +57,7 @@ Keen-eyed Front-End Software Developer with a foundation in JavaScript, CSS, HTM
 
 ## More
   
-- 🔭 Chekout my most recent project: [Overlook Hotel Repo](https://github.com/CarissaHluchan/overlook-hotel)
+- 🔭 Chekout my most recent project: [Red Horizon](https://carissahluchan.github.io/red-horizon/)
 - 🌱 I’m currently learning React.  
 - ❓ Ask me about my experience in Scientific Photography. See some of my work:[![flickr](https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/photos/hurdstrom/)
 - 💻 Why coding? The skills I bring: [![Presentation](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black)](https://docs.google.com/presentation/d/1BNgDOTi15TSLf2qjodGmVsleNTXNSJ1Oiq2xQEEKupQ/edit#slide=id.g2737dd05ca1_0_87)
