@@ -46,13 +46,13 @@ I'm a front-End Software Developer with a foundation in React, JavaScript, CSS, 
 <br/>
 
 ## My Recent Projects
-- [🚀 Red Horizon 🚀](https://carissahluchan.github.io/red-horizon/)
-- [🍿🥕 Crusty Carrots 🥕🍿](https://carissahluchan.github.io/crusty-carrots/) 
-- [🛎️ Overlook Hotel 🛎️](https://carissahluchan.github.io/overlook-hotel/)
-- [🍳 Whats Cookin 🍳](https://github.com/CarissaHluchan/whats-cookin)
-- [🪨📜✂️ Rock, Paper, Scissors 🪨📜✂️](https://carissahluchan.github.io/rock-paper-scissors/)
-- [🫶Self Care Center🫶](https://carissahluchan.github.io/self-care-center/)
-- [🍭 ColoRandom 🍭](https://carissahluchan.github.io/colorRandom/)
+- [Red Horizon 🚀](https://carissahluchan.github.io/red-horizon/)
+- [Crusty Carrots 🥕🍿](https://carissahluchan.github.io/crusty-carrots/) 
+- [Overlook Hotel 🛎️](https://carissahluchan.github.io/overlook-hotel/)
+- [Whats Cookin 🍳](https://github.com/CarissaHluchan/whats-cookin)
+- [Rock, Paper, Scissors 🪨📜✂️](https://carissahluchan.github.io/rock-paper-scissors/)
+- [Self Care Center🫶](https://carissahluchan.github.io/self-care-center/)
+- [ColoRandom 🍭](https://carissahluchan.github.io/colorRandom/)
 - [RomCom](https://rolearypro.github.io/romcom-With-Carissa/)
 
 ## More
