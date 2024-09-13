@@ -46,8 +46,8 @@ I'm a front-End Software Developer with a foundation in React, JavaScript, CSS, 
 <br/>
 
 ## My Recent Projects
-- [Red Horizon 🚀](https://carissahluchan.github.io/red-horizon/)
-- [Crusty Carrots 🥕🍿🎥](https://carissahluchan.github.io/crusty-carrots/) 
+- [Red Horizon 🚀](https://github.com/CarissaHluchan/red-horizon)
+- [Crusty Carrots 🥕🍿🎥](https://github.com/CarissaHluchan/crusty-carrots/) 
 - [Overlook Hotel 🛎️](https://carissahluchan.github.io/overlook-hotel/)
 - [Whats Cookin 🍳](https://github.com/CarissaHluchan/whats-cookin)
 - [Rock, Paper, Scissors 🪨📜✂️](https://carissahluchan.github.io/rock-paper-scissors/)
