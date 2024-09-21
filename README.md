@@ -49,7 +49,7 @@ I'm a front-End Software Developer with a foundation in React, JavaScript, CSS, 
 - [Whisker Watch 🐈](https://github.com/CarissaHluchan/whisker-watch)
 - [Red Horizon 🚀](https://github.com/CarissaHluchan/red-horizon)
 - [Crusty Carrots 🥕🍿🎥](https://github.com/CarissaHluchan/crusty-carrots/) 
-- [Overlook Hotel 🛎️](https://carissahluchan.github.io/overlook-hotel/)
+- [Overlook Hotel 🛎️](https://github.com/CarissaHluchan/overlook-hotel)
 - [Whats Cookin 🍳](https://github.com/CarissaHluchan/whats-cookin)
 - [Rock, Paper, Scissors 🪨📜✂️](https://carissahluchan.github.io/rock-paper-scissors/)
 - [Self Care Center🫶](https://carissahluchan.github.io/self-care-center/)
