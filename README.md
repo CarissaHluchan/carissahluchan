@@ -18,9 +18,10 @@
 <img src=https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white />
 </div>
 
-## Hi there 👋 I'm Carissa, a front-end developer.</div>  
+## Hi there 👋 I'm Carissa,</div>  
 
-I'm a front-End Software Developer with a foundation in React, JavaScript, CSS, HTML and responsive design. Proficient in effective testing practices and passionate about applying UI/UX principles and accessibility to improve user experience. Thrives on leveraging a background in photography to enhance visual elements and contribute to creating high-quality, user-centered applications.
+I'm a front-End Software Developer with a foundation in React, JavaScript, and responsive design. Experience with testing practices and passion for applying UI/UX principles and accessibility to improve user experience and leveraging 10 years in photography to enhance visual elements and contribute to creating high-quality, user-centered applications.
+
   
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
