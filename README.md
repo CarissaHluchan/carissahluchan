@@ -66,9 +66,9 @@ I'm a front-End Software Developer with a foundation in React, JavaScript, and r
 - 👯 I’m looking to collaborate on CSS, HTML, JavaScript, and React projects. UX/UI design. Accessibility. TDD
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm an outdoor enthusiast: hiker, rock climber, splitboarder. <br/>
-![Woman Climbing Medium-Light Skin Tone](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/34d92fce-8f64-411c-9e0f-00d20803abf1)
-![Snowboarder Light Skin Tone (1)](https://github.com/CarissaHluchan/carissahluchan/assets/162339081/10390d7c-38e7-41c6-ba0d-19eafa4eecff)
-
+<a href="https://www.animatedimages.org/cat-alpinists-and-mountain-climbers-935.htm"><img src="https://www.animatedimages.org/data/media/935/animated-alpinist-and-mountain-climber-image-0033.gif" border="0" alt="animated-alpinist-and-mountain-climber-image-0033" /></a>
+<a href="https://www.animatedimages.org/cat-alpinists-and-mountain-climbers-935.htm"><img src="https://www.animatedimages.org/data/media/935/animated-alpinist-and-mountain-climber-image-0043.gif" border="0" alt="animated-alpinist-and-mountain-climber-image-0043" /></a>
+<a href="https://www.animatedimages.org/cat-winter-sports-smileys-and-smilies-1613.htm"><img src="https://www.animatedimages.org/data/media/1613/animated-winter-sport-smiley-image-0001.gif" border="0" alt="animated-winter-sport-smiley-image-0001" /></a>
 <br/>  
 
 
