@@ -52,9 +52,9 @@ I'm a front-End Software Developer with a foundation in React, JavaScript, and r
 - [Crusty Carrots 🥕🍿🎥](https://github.com/CarissaHluchan/crusty-carrots/) 
 - [Overlook Hotel 🛎️](https://github.com/CarissaHluchan/overlook-hotel)
 - [Whats Cookin 🍳](https://github.com/CarissaHluchan/whats-cookin)
-- [Rock, Paper, Scissors 🪨📜✂️](https://carissahluchan.github.io/rock-paper-scissors/)
-- [Self Care Center🫶](https://carissahluchan.github.io/self-care-center/)
-- [ColoRandom 🍭](https://carissahluchan.github.io/colorRandom/)
+- [Rock, Paper, Scissors 🪨📜✂️](https://github.com/CarissaHluchan/rock-paper-scissors/blob/main/README.md)
+- [Self Care Center🫶](https://github.com/CarissaHluchan/self-care-center)
+- [ColoRandom 🍭](https://github.com/CarissaHluchan/colorRandom)
 - [RomCom](https://rolearypro.github.io/romcom-With-Carissa/)
 
 ## More
