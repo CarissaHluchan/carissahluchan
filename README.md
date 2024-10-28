@@ -47,6 +47,7 @@ I'm a front-End Software Developer with a foundation in React, JavaScript, and r
 <br/>
 
 ## My Recent Projects
+- [Chess with Frien-EMIES ♟️](https://github.com/CarissaHluchan/chess-with-frien-emies)
 - [Whisker Watch 🐈](https://github.com/CarissaHluchan/whisker-watch)
 - [Red Horizon 🚀](https://github.com/CarissaHluchan/red-horizon)
 - [Crusty Carrots 🥕🍿🎥](https://github.com/CarissaHluchan/crusty-carrots/) 
@@ -59,7 +60,7 @@ I'm a front-End Software Developer with a foundation in React, JavaScript, and r
 
 ## More
   
-- 🔭 Chekout my most recent project: [Whisker Watch 🐈](https://github.com/CarissaHluchan/whisker-watch)
+- 🔭 Chekout my most recent project: [Chess with Frien-EMIES ♟️](https://github.com/CarissaHluchan/chess-with-frien-emies)
 - 🌱 I’m currently learning React.  
 - ❓ Ask me about my experience in Scientific Photography. See some of my work:[![flickr](https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white)](https://www.flickr.com/photos/hurdstrom/)
 - 💻 Why coding? The skills I bring: [![Presentation](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black)](https://docs.google.com/presentation/d/1BNgDOTi15TSLf2qjodGmVsleNTXNSJ1Oiq2xQEEKupQ/edit#slide=id.g2737dd05ca1_0_87)
