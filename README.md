@@ -2,6 +2,10 @@
 </div>
 <br/>
 <div align="center">
+
+<a href="https://carissa-hluchan.vercel.app/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white alt="Carissa's portfolio" style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/CarissaHluchan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
