@@ -52,6 +52,7 @@ I'm a front-End Software Developer with a foundation in React, JavaScript, and r
 
 ## My Recent Projects
 - [Chess with Frien-EMIES ♟️](https://github.com/CarissaHluchan/chess-with-frien-emies)
+- [News Wire 📰](https://github.com/CarissaHluchan/news-wire)
 - [Whisker Watch 🐈](https://github.com/CarissaHluchan/whisker-watch)
 - [Red Horizon 🚀](https://github.com/CarissaHluchan/red-horizon)
 - [Crusty Carrots 🥕🍿🎥](https://github.com/CarissaHluchan/crusty-carrots/) 
